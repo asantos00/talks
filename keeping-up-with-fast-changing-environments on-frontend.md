@@ -35,7 +35,7 @@ Links
 Extra Information
 -----------------
 
-Building a production-ready frontend ahead even if the API does not exist (Slides) - https://docs.google.com/presentation/d/1fTHnTkn9ld43V931Vgx0WYaG_3XYxse-30cFq1AFgx
+Building a production-ready frontend ahead even if the API does not exist (Slides) - https://docs.google.com/presentation/d/1fTHnTkn9ld43V931Vgx0WYaG_3XYxse-30cFq1AFgxE/edit?usp=sharing
 
 E2E tests with cypress (Slides) - https://alexandrempsantos.com/e2e-tests-with-cypress
 
